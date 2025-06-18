@@ -107,10 +107,10 @@ User Query → AI Agent → [RAG Tool + Bing Search Tool] → Risk Assessment Ou
 ### 🔹 Step 1: Access Azure AI Foundry Studio
 1. Go to [Azure AI Studio](https://ai.azure.com/)
 2. Sign in with your Azure account
-3. Select your hub: `insurance-workshop-hub`
+3. Select your hub: `insurance-workshop-ai-foundry`
 4. Click **+ New project**
 5. Create project:
-   - **Project name**: `Insurance-Risk-Assessment`
+   - **Project name**: `Insurance-Risk-Assessment+lastname`
    - **Description**: `AI agent for assessing insurance claim risks`
 
 ### 🔹 Step 2: Upload Sample Data
