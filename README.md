@@ -80,7 +80,7 @@ User Query → AI Agent → [RAG Tool + Bing Search Tool] → Risk Assessment Ou
    - **Pricing tier**: Standard S0
 3. After creation, go to **Model deployments**
 4. Deploy **gpt-4o** model:
-   - **Deployment name**: `gpt-4o`
+   - **Deployment name**: `gpt-4o-mini`
    - **Model version**: Latest
    - **Deployment type**: Standard
 
@@ -116,7 +116,7 @@ User Query → AI Agent → [RAG Tool + Bing Search Tool] → Risk Assessment Ou
 ### 🔹 Step 2: Upload Sample Data
 1. In your project, go to **Data** → **+ Add data**
 2. Choose **Upload files**
-3. Upload the provided `insurance_policies_claims.csv`
+3. Upload the provided `insurance_policies_claims.txt`
 4. Configure data source:
    - **Data source name**: `insurance-data`
    - **Description**: `Sample insurance policies and claims data`
