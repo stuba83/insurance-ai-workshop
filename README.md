@@ -154,13 +154,10 @@ User Query → AI Agent → [RAG Tool + Bing Search Tool] → Risk Assessment Ou
 ### 🔹 Step 5: Configure Agent Tools
 
 #### Add RAG Tool (Internal Data):
-1. In your agent, click **+ Add tool**
-2. Select **Azure AI Search**
+1. In your agent, click **+ Add Knowledge base**
+2. Select **Upload Files**
 3. Configure:
-   - **Connection name**: `insurance-search-connection`
-   - **Search service**: Select your search service
-   - **Index**: `insurance-claims-index`
-   - **Description**: `Search internal insurance policies and claims data`
+   - **Vector Store name**: `insurance-vector-store`
 
 #### Add Bing Search Tool (External Data):
 1. Click **+ Add tool** again
