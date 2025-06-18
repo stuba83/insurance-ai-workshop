@@ -116,7 +116,7 @@ User Query → AI Agent → [RAG Tool + Bing Search Tool] → Risk Assessment Ou
 ### 🔹 Step 2: Upload Sample Data
 1. In your project, go to **Data** → **+ Add data**
 2. Choose **Upload files**
-3. Upload the provided `insurance_policies_claims.txt`
+3. Upload the provided `insurance_policies_claims.json`
 4. Configure data source:
    - **Data source name**: `insurance-data`
    - **Description**: `Sample insurance policies and claims data`

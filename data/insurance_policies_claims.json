@@ -1,0 +1,107 @@
+[
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL001,John Doe,45,Kingston Jamaica,Property,150000,2022-01-15,CLM001,Flood,2024-03-15,25000,Approved,Water damage from recent flooding,High flood risk area,2,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL002,Sarah Johnson,38,Miami Florida,Property,300000,2021-06-10,CLM002,Hurricane,2024-09-20,85000,Under Review,Hurricane Ian wind and water damage,Hurricane zone,1,Medium"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL003,Michael Brown,29,Phoenix Arizona,Auto,50000,2023-02-20,CLM003,Collision,2024-05-12,4500,Approved,Minor rear-end collision,Clean driving record,0,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL004,Jennifer Davis,52,Los Angeles California,Property,250000,2020-11-30,CLM004,Fire,2024-08-03,120000,Investigation,House fire - electrical fault claimed,Recent policy increase,0,High"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL005,Robert Wilson,41,Houston Texas,Auto,75000,2022-08-14,CLM005,Theft,2024-04-18,15000,Approved,Vehicle stolen from parking garage,High crime area,1,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL006,Lisa Martinez,34,New Orleans Louisiana,Property,180000,2021-03-25,CLM006,Flood,2024-06-22,35000,Approved,Flood damage from heavy rains,Flood zone area,3,Medium"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL007,David Kim,47,San Francisco California,Auto,60000,2023-01-12,CLM007,Vandalism,2024-07-08,3200,Approved,Car windows broken and scratched,Low crime area,0,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL008,Maria Rodriguez,39,Tampa Florida,Property,200000,2022-05-18,CLM008,Storm,2024-10-14,22000,Processing,Roof damage from severe thunderstorm,Storm-prone region,1,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL009,James Thompson,56,Chicago Illinois,Auto,45000,2020-12-03,CLM009,Accident,2024-02-28,8700,Approved,Multi-vehicle accident on highway,Weather conditions factor,2,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL010,Emily Chen,31,Seattle Washington,Property,275000,2021-09-07,CLM010,Water,2024-01-19,18000,Approved,Pipe burst causing water damage,Old building infrastructure,0,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL011,Christopher Lee,43,Denver Colorado,Auto,55000,2022-11-22,CLM011,Hail,2024-05-30,6800,Approved,Hail damage to vehicle body and windows,Hail season timing,1,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL012,Amanda White,28,Atlanta Georgia,Property,160000,2023-04-16,CLM012,Burglary,2024-09-05,12000,Approved,Break-in with electronics stolen,Recent neighborhood crime increase,0,Medium"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL013,Kevin Johnson,50,Las Vegas Nevada,Auto,65000,2021-07-13,CLM013,Hit and Run,2024-03-22,11500,Under Review,Parked car damaged by unknown driver,No witnesses available,1,Medium"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL014,Rachel Adams,36,Portland Oregon,Property,190000,2022-02-28,CLM014,Tree Fall,2024-11-01,8500,Processing,Large tree fell on roof during windstorm,High wind area,0,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL015,Daniel Garcia,44,Kansas City Missouri,Auto,40000,2020-10-09,CLM015,Glass,2024-06-15,850,Approved,Windshield cracked by road debris,Highway construction zone,3,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL016,Michelle Taylor,42,Oklahoma City Oklahoma,Property,175000,2021-12-20,CLM016,Tornado,2024-04-12,95000,Investigation,Tornado damage to structure,Tornado alley location,0,Medium"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL017,Andrew Miller,37,Richmond Virginia,Auto,52000,2023-03-14,CLM017,Comprehensive,2024-08-27,4200,Approved,Flood damage to engine from heavy rains,Flash flood area,0,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL018,Stephanie Brown,33,Nashville Tennessee,Property,145000,2022-07-05,CLM018,Lightning,2024-07-20,6300,Approved,Lightning strike caused electrical damage,Storm season activity,1,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL019,Brian Davis,48,Columbus Ohio,Auto,58000,2021-04-11,CLM019,Collision,2024-10-08,13200,Processing,Side-impact collision at intersection,Busy intersection known issues,2,Medium"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL020,Nicole Wilson,35,Indianapolis Indiana,Property,210000,2020-08-17,CLM020,Smoke,2024-01-30,28000,Approved,Smoke damage from nearby house fire,Dense residential area,0,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL021,Mark Anderson,53,Charlotte North Carolina,Auto,48000,2022-12-01,CLM021,Deer,2024-09-12,7400,Approved,Deer collision on rural highway,High deer crossing area,1,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL022,Crystal Johnson,29,Jacksonville Florida,Property,155000,2023-05-23,CLM022,Mold,2024-05-18,14000,Under Review,Mold damage discovered after leak,Humid climate conditions,0,Medium"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL023,Timothy Clark,46,Memphis Tennessee,Auto,43000,2021-01-28,CLM023,Fire,2024-04-05,25000,Investigation,Vehicle fire while parked,No apparent cause identified,0,High"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL024,Angela Martinez,40,Louisville Kentucky,Property,168000,2022-09-12,CLM024,Ice,2024-12-02,5600,Processing,Ice dam caused roof leak and damage,Severe winter weather,1,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL025,Gregory Lee,51,Buffalo New York,Auto,51000,2020-06-24,CLM025,Comprehensive,2024-03-08,3800,Approved,Hail and wind damage during storm,Severe weather event,2,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL026,Heather Davis,32,Salt Lake City Utah,Property,195000,2021-11-15,CLM026,Earthquake,2024-08-14,42000,Processing,Minor structural damage from earthquake,Seismic activity zone,0,Medium"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL027,Patrick Wilson,38,Providence Rhode Island,Auto,56000,2023-02-06,CLM027,Theft,2024-06-28,19000,Investigation,Catalytic converter and parts stolen,Rising auto theft area,1,High"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL028,Monica Rodriguez,44,Birmingham Alabama,Property,172000,2022-04-19,CLM028,Wind,2024-10-22,16800,Approved,Wind damage to siding and roof,Tornado season damage,2,Medium"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL029,Charles Kim,49,Hartford Connecticut,Auto,47000,2021-08-31,CLM029,Vandalism,2024-01-14,2900,Approved,Graffiti and tire damage,Downtown parking incident,0,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL030,Sandra Thompson,35,Des Moines Iowa,Property,163000,2020-12-28,CLM030,Burst Pipe,2024-07-11,11200,Approved,Frozen pipe burst during cold snap,Extreme weather conditions,1,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL031,William Chen,41,Albuquerque New Mexico,Auto,54000,2022-10-17,CLM031,Glass,2024-09-16,1250,Approved,Multiple windows broken by hail,Severe hailstorm event,3,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL032,Jennifer White,27,Boise Idaho,Property,148000,2023-01-09,CLM032,Wildfire,2024-08-19,78000,Under Review,Smoke and ember damage from nearby wildfire,Wildfire risk zone,0,Medium"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL033,Thomas Lee,54,Anchorage Alaska,Auto,61000,2021-05-22,CLM033,Weather,2024-11-07,9600,Processing,Ice-related accident and damage,Extreme weather driving,1,Low"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL034,Karen Johnson,39,Honolulu Hawaii,Property,285000,2022-06-13,CLM034,Flood,2024-04-25,32000,Approved,Flash flood damage to lower level,Heavy rainfall event,0,Medium"
+  },
+  {
+    "policy_id,customer_name,customer_age,location,policy_type,coverage_amount,policy_start_date,claim_id,claim_type,claim_date,claim_amount,claim_status,claim_description,risk_factors,previous_claims_count,fraud_indicators": "POL035,Joseph Martinez,46,Cheyenne Wyoming,Auto,42000,2020-09-04,CLM035,Animal,2024-12-01,6100,Processing,Elk collision on mountain highway,Wildlife crossing area,2,Low"
+  }
+]
