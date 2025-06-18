@@ -80,7 +80,7 @@ User Query → AI Agent → [RAG Tool + Bing Search Tool] → Risk Assessment Ou
    - **Pricing tier**: Standard S0
 3. After creation, go to **Model deployments**
 4. Deploy **gpt-4o** model:
-   - **Deployment name**: `gpt-4o-mini`
+   - **Deployment name**: `gpt-4.1`
    - **Model version**: Latest
    - **Deployment type**: Standard
 
@@ -140,14 +140,14 @@ User Query → AI Agent → [RAG Tool + Bing Search Tool] → Risk Assessment Ou
    - **Instructions**: 
    ```
    You are an expert insurance risk assessor. Your role is to evaluate insurance claims by:
-   1. Analyzing internal policy and claims data from vector store
+   1. Analyzing internal policy and claims data from vector store knowledge base
    2. Gathering relevant external information (news, weather, fraud alerts) from Bing Search
    3. Providing a risk assessment with justification
    
    Always provide:
    - Risk Level: LOW, MEDIUM, or HIGH
    - Confidence Score: 1-10
-   - Key Risk Factors found
+   - Key Risk Factors found from internet and internal knowledge base
    - Recommendations for next steps
    ```
 
